@@ -1,4 +1,4 @@
-Module 11 challenge 
+#Module 11 challenge 
 PART 1: mars_news
 The given Python code performs web scraping to extract titles and preview text from the Mars news website. Let's analyze the code step by step:
 
@@ -17,7 +17,7 @@ Finally, the code prints the titles_descriptions list to confirm the success of 
 
 Overall, this code performs web scraping using Splinter and BeautifulSoup to extract titles and preview text from the Mars news website and stores the results in a list of dictionaries.
 
-PART 2: mars_weather
+#PART 2: mars_weather
 The code provided is a Python script that performs web scraping and data analysis on the Mars temperature data from a specific website. Here's a breakdown of the code and its functionality:
 
 Importing Libraries: The script begins by importing the necessary libraries for web scraping and data analysis, such as Browser from Splinter, BeautifulSoup from bs4, matplotlib.pyplot, and pandas.
