@@ -1,4 +1,4 @@
-#Module 11 challenge 
+
 PART 1: mars_news
 The given Python code performs web scraping to extract titles and preview text from the Mars news website. Let's analyze the code step by step:
 
